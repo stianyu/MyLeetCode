@@ -1,6 +1,6 @@
 # 目录
 - [代码]()
-    - [MyLeetCode\剑指offer](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer#leetcode)
+    - [MyLeetCode\剑指offer](https://github.com/stianyu/MyLeetCode#%E7%9B%AE%E5%BD%95)
         - [数据结构](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer#%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%9B%B8%E5%85%B3)
             - [01.数组和矩阵](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer#01%E6%95%B0%E7%BB%84%E5%92%8C%E7%9F%A9
             %E9%98%B5)
@@ -36,8 +36,8 @@
     - [前缀和]()
     - [滑动窗口]()
     
-# LeetCode
-[返回目录](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer#%E7%9B%AE%E5%BD%95)
+# MyLeetCode\剑指offer
+[返回目录](https://github.com/stianyu/MyLeetCode#%E7%9B%AE%E5%BD%95)
 
 按照不同的类别进行分类，参考自 [liweiwei1419/LeetCode-Solutions-in-Good-Style](https://github.com/liweiwei1419/LeetCode-Solutions-in-Good-Style) 。
 ## 数据结构相关
