@@ -99,8 +99,8 @@
 
 | 题目 |   Solution | Difficulty |
 | :--------------------: | :--------------: | :-------------: |
-|   [剑指 Offer 09. 用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/)   |      困难       | [Java](https://github.com/stianyu/MyLeetCode/tree/master/src/_06/stack/Offer_30_Queue/Solution.java) |
-|   [剑指 Offer 30. 包含min函数的栈](https://github.com/stianyu/MyLeetCode/tree/master/src/_06/stack/_155_MinStack/Solution.java) |      困难       | [Java](https://github.com/stianyu/MyLeetCode/tree/master/src/_06/stack/Offer_30_Queue/Solution.java) |
+|   [剑指 Offer 09. 用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/)   |      困难       | [Java](https://github.com/stianyu/MyLeetCode/tree/master/src/_06/stack/Offer_09_CQueue/CQueue.java) |
+|   [剑指 Offer 30. 包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/) |      困难       | [Java](https://github.com/stianyu/MyLeetCode/tree/master/src/_06/stack/Offer_30_Queue/Solution.java) |
 
 
 
@@ -109,11 +109,11 @@
 
 | 题目 |   Solution | Difficulty |
 | :--------------------: | :--------------: | :-------------: |
-|   [456. 132模式](https://leetcode-cn.com/problems/132-pattern/)   |      中等       | [Java](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer/blob/master/src/LeetCodeSolution/DataStructure/_01_ArrayAndMatrix/_4_MedianOfTwoSortedArrays/Solution.java) |
-|   [496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/)   |      简单       | [Java](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer/blob/master/src/LeetCodeSolution/DataStructure/_01_ArrayAndMatrix/_4_MedianOfTwoSortedArrays/Solution.java) |
-|   [503. 下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/)   |      中等       | [Java](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer/blob/master/src/LeetCodeSolution/DataStructure/_01_ArrayAndMatrix/_4_MedianOfTwoSortedArrays/Solution.java) |
-|   [85. 最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/)   |      困难       | [Java](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer/blob/master/src/LeetCodeSolution/DataStructure/_01_ArrayAndMatrix/_4_MedianOfTwoSortedArrays/Solution.java) |
-|   [84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)   |      困难       | [Java](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer/blob/master/src/LeetCodeSolution/DataStructure/_01_ArrayAndMatrix/_4_MedianOfTwoSortedArrays/Solution.java) |
+|   [456. 132模式](https://leetcode-cn.com/problems/132-pattern/)   |      中等       | [Java](https://github.com/stianyu/MyLeetCode/tree/master/src/_07/monotonousStack/_456_Find132Pattern/Solution.java) |
+|   [496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/)   |      简单       | [Java](https://github.com/stianyu/MyLeetCode/tree/master/src/_07/monotonousStack/_496_NextGreaterElementI/Solution.java) |
+|   [503. 下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/)   |      中等       | [Java](https://github.com/stianyu/MyLeetCode/tree/master/src/_07/monotonousStack/_503_NextGreaterElementsII_LoopArray/Solution.java) |
+|   [84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)   |      困难       | [Java](https://github.com/stianyu/MyLeetCode/tree/master/src/_07/monotonousStack/_84_LargestRectangleArea/Solution.java) |
+|   [85. 最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/)   |      困难       | [Java](https://github.com/stianyu/MyLeetCode/tree/master/src/_07/monotonousStack/_85_maximalRectangle/Solution.java) |
 
 
 
