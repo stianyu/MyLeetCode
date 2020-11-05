@@ -45,71 +45,69 @@
 
 #### 01.数组和矩阵
 
-| # |   Solution | Difficulty |
+| 题目 |   Solution | Difficulty |
 | :--------------------: | :--------------: | :-------------: |
-|   [面试题 01.07. 旋转矩阵](https://leetcode-cn.com/problems/rotate-matrix-lcci/)   | [Java](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer/blob/master/src/LeetCodeSolution/DataStructure/_01_ArrayAndMatrix/_4_MedianOfTwoSortedArrays/Solution.java) |      中等       |
-|   [15. 三数之和](https://leetcode-cn.com/problems/3sum/)   | [Java](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer/blob/master/src/LeetCodeSolution/DataStructure/_01_ArrayAndMatrix/_4_MedianOfTwoSortedArrays/Solution.java) |      中等       |
-|   [41. 缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/)   | [Java](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer/blob/master/src/LeetCodeSolution/DataStructure/_01_ArrayAndMatrix/_4_MedianOfTwoSortedArrays/Solution.java) |      困难       |
-|   [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)   | [Java](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer/blob/master/src/LeetCodeSolution/DataStructure/_01_ArrayAndMatrix/_4_MedianOfTwoSortedArrays/Solution.java) |      中等       |
-|   [692. 前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/)   | [Java](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer/blob/master/src/LeetCodeSolution/DataStructure/_01_ArrayAndMatrix/_4_MedianOfTwoSortedArrays/Solution.java) |      简单       |
-|   [剑指 Offer 29. 顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)   | [Java](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer/blob/master/src/LeetCodeSolution/DataStructure/_01_ArrayAndMatrix/_4_MedianOfTwoSortedArrays/Solution.java) |      Medium       |
-|   [剑指 Offer 44. 数字序列中某一位的数字](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/)   | [Java](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer/blob/master/src/LeetCodeSolution/DataStructure/_01_ArrayAndMatrix/_4_MedianOfTwoSortedArrays/Solution.java) |      Medium       |
+|   [面试题 01.07. 旋转矩阵](https://leetcode-cn.com/problems/rotate-matrix-lcci/)   |      中等       | [Java](https://github.com/stianyu/MyLeetCode/blob/master/src/_01/array/_01_07_RotateMatrix/Solution.java) |
+|   [15. 三数之和](https://leetcode-cn.com/problems/3sum/)   |      中等       | [Java](https://github.com/stianyu/MyLeetCode/blob/master/src/_01/array/_15_ThreeSum/Solution.java) |
+|   [41. 缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/)   |      困难       | [Java](https://github.com/stianyu/MyLeetCode/tree/master/src/_01/array/_41_FirstMissingPositive/Solution.java) |
+|   [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)   |      中等       | [Java](https://github.com/stianyu/MyLeetCode/blob/master/src/_01/array/_215_FindKthLargest/Solution.java) |
+|   [692. 前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/)   |      简单       | [Java](https://github.com/stianyu/MyLeetCode/tree/master/src/_01/array/_692_TopKFrequent/Solution.java) |
+|   [剑指 Offer 29. 顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/)   |      简单       | [Java](https://github.com/stianyu/MyLeetCode/tree/master/src/_01/array/_Offer_29_SpiralOrder/Solution.java) |
+|   [剑指 Offer 44. 数字序列中某一位的数字](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/)   |      中等       | [Java](https://github.com/stianyu/MyLeetCode/blob/master/src/_01/array/Offer_44_FindNthDigit/Solution.java) |
 
 
 
 #### 02.字符串
 
-| # |   Solution | Difficulty |
+| 题目 |   Solution | Difficulty |
 | :--------------------: | :--------------: | :-------------: |
-|   [剑指 Offer 58 - I. 翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/)   | [Java](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer/blob/master/src/LeetCodeSolution/DataStructure/_01_ArrayAndMatrix/_4_MedianOfTwoSortedArrays/Solution.java) |      中等       |
+|   [剑指 Offer 58 - I. 翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/)   |      中等       | [Java](https://github.com/stianyu/MyLeetCode/tree/master/src/_02/string/Offer58/Solution.java) |
 
 
 
 #### 03.链表
 
-| # |   Solution | Difficulty |
+| 题目 |   Solution | Difficulty |
 | :--------------------: | :--------------: | :-------------: |
-|   [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)   |      简单       | [Java](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer/blob/master/src/LeetCodeSolution/DataStructure/_01_ArrayAndMatrix/_4_MedianOfTwoSortedArrays/Solution.java) |
-|   [92. 反转链表 II](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)   |      中等       | [Java](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer/blob/master/src/LeetCodeSolution/DataStructure/_01_ArrayAndMatrix/_4_MedianOfTwoSortedArrays/Solution.java) |
-|   [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)   |      中等       | [Java](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer/blob/master/src/LeetCodeSolution/DataStructure/_01_ArrayAndMatrix/_4_MedianOfTwoSortedArrays/Solution.java) |
-|   [23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)   |      困难       | [Java](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer/blob/master/src/LeetCodeSolution/DataStructure/_01_ArrayAndMatrix/_4_MedianOfTwoSortedArrays/Solution.java) |
-|   [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)   |      简单       | [Java](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer/blob/master/src/LeetCodeSolution/DataStructure/_01_ArrayAndMatrix/_4_MedianOfTwoSortedArrays/Solution.java) |
-|   [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)   |      中等       | [Java](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer/blob/master/src/LeetCodeSolution/DataStructure/_01_ArrayAndMatrix/_4_MedianOfTwoSortedArrays/Solution.java) |
-|   [328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)   |      中等       | [Java](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer/blob/master/src/LeetCodeSolution/DataStructure/_01_ArrayAndMatrix/_4_MedianOfTwoSortedArrays/Solution.java) |
-|   [86. 分隔链表](https://leetcode-cn.com/problems/partition-list/)   |      中等       | [Java](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer/blob/master/src/LeetCodeSolution/DataStructure/_01_ArrayAndMatrix/_4_MedianOfTwoSortedArrays/Solution.java) |
-|   [剑指 Offer 35. 复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/)   |      简单       | [Java](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer/blob/master/src/LeetCodeSolution/DataStructure/_01_ArrayAndMatrix/_4_MedianOfTwoSortedArrays/Solution.java) |
-|   [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)   |      中等       | [Java](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer/blob/master/src/LeetCodeSolution/DataStructure/_01_ArrayAndMatrix/_4_MedianOfTwoSortedArrays/Solution.java) |
-|   [328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)   |      中等       | [Java](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer/blob/master/src/LeetCodeSolution/DataStructure/_01_ArrayAndMatrix/_4_MedianOfTwoSortedArrays/Solution.java) |
+|   [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)   |      简单       | [Java](https://github.com/stianyu/MyLeetCode/tree/master/src/_03/linkedList/_92_ReverseBetween/Solution.java) |
+|   [92. 反转链表 II](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)   |      中等       | [Java](https://github.com/stianyu/MyLeetCode/tree/master/src/_03/linkedList/_4_MedianOfTwoSortedArrays/Solution.java) |
+|   [2. 两数相加](https://leetcode-cn.com/problems/add-two-numbers/)   |      中等       | [Java](https://github.com/stianyu/MyLeetCode/tree/master/src/_03/linkedList/_2_AddTwoNumbers/Solution.java) |
+|   [23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)   |      困难       | [Java](https://github.com/stianyu/MyLeetCode/tree/master/src/_03/linkedList/_23_MergeLists/Solution.java) |
+|   [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)   |      简单       | [Java](https://github.com/stianyu/MyLeetCode/tree/master/src/_03/linkedList/_83_DeleteDuplicates/Solution.java) |
+|   [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)   |      中等       | [Java](https://github.com/stianyu/MyLeetCode/tree/master/src/_03/linkedList/_82_DeleteDuplicatesII/Solution.java) |
+|   [328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)   |      中等       | [Java](https://github.com/stianyu/MyLeetCode/tree/master/src/_03/linkedList/_328_OddEvenList/Solution.java) |
+|   [86. 分隔链表](https://leetcode-cn.com/problems/partition-list/)   |      中等       | [Java](https://github.com/stianyu/MyLeetCode/tree/master/src/_03/linkedList/_86_PartitionLinkedList/Solution.java) |
+|   [剑指 Offer 35. 复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/)   |      中等       | [Java](https://github.com/stianyu/MyLeetCode/tree/master/src/_03/linkedList/Offer_35_CopyRandomList/Solution.java) |
 
 
 
 
 #### 05.滑动窗口
 
-| # |   Solution | Difficulty |
+| 题目 |   Solution | Difficulty |
 | :--------------------: | :--------------: | :-------------: |
-|   [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)   |      困难       | [Java](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer/blob/master/src/LeetCodeSolution/DataStructure/_01_ArrayAndMatrix/_4_MedianOfTwoSortedArrays/Solution.java) |
-|   [76. 最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/)   |      困难       | [Java](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer/blob/master/src/LeetCodeSolution/DataStructure/_01_ArrayAndMatrix/_4_MedianOfTwoSortedArrays/Solution.java) |
-|   [438. 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)   |      中等       | [Java](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer/blob/master/src/LeetCodeSolution/DataStructure/_01_ArrayAndMatrix/_4_MedianOfTwoSortedArrays/Solution.java) |
-|   [剑指 Offer 48. 最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/)   |      困难       | [Java](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer/blob/master/src/LeetCodeSolution/DataStructure/_01_ArrayAndMatrix/_4_MedianOfTwoSortedArrays/Solution.java) |
-|   [剑指 Offer 59 - II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)   |      简单       | [Java](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer/blob/master/src/LeetCodeSolution/DataStructure/_01_ArrayAndMatrix/_4_MedianOfTwoSortedArrays/Solution.java) |
+|   [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)   |      困难       | [Java](https://github.com/stianyu/MyLeetCode/tree/master/src/_05/slidingWindow/_239_MaxInSlidingWindow/Solution.java) |
+|   [76. 最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/)   |      困难       | [Java](https://github.com/stianyu/MyLeetCode/tree/master/src/_05/slidingWindow/_76_minWindow/Solution.java) |
+|   [438. 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)   |      中等       | [Java](https://github.com/stianyu/MyLeetCode/tree/master/src/_05/slidingWindow/_438_findAnagrams/Solution.java) |
+|   [剑指 Offer 48. 最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/)   |      困难       | [Java](https://github.com/stianyu/MyLeetCode/tree/master/src/_05/slidingWindow/Offer48_lengthOfLongestSubstring/Solution.java) |
+|   [剑指 Offer 59 - II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)   |      简单       | [Java](https://github.com/stianyu/MyLeetCode/tree/master/src/_05/slidingWindow/Offer59II_MaxInDeque/Solution.java) |
 
 
 
 
 #### 06.栈
 
-| # |   Solution | Difficulty |
+| 题目 |   Solution | Difficulty |
 | :--------------------: | :--------------: | :-------------: |
-|   [剑指 Offer 09. 用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/)   |      困难       | [Java](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer/blob/master/src/LeetCodeSolution/DataStructure/_01_ArrayAndMatrix/_4_MedianOfTwoSortedArrays/Solution.java) |
-|   [剑指 Offer 30. 包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/)   |      困难       | [Java](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer/blob/master/src/LeetCodeSolution/DataStructure/_01_ArrayAndMatrix/_4_MedianOfTwoSortedArrays/Solution.java) |
+|   [剑指 Offer 09. 用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/)   |      困难       | [Java](https://github.com/stianyu/MyLeetCode/tree/master/src/_06/stack/Offer_30_Queue/Solution.java) |
+|   [剑指 Offer 30. 包含min函数的栈](https://github.com/stianyu/MyLeetCode/tree/master/src/_06/stack/_155_MinStack/Solution.java) |      困难       | [Java](https://github.com/stianyu/MyLeetCode/tree/master/src/_06/stack/Offer_30_Queue/Solution.java) |
 
 
 
 
 #### 07.单调栈
 
-| # |   Solution | Difficulty |
+| 题目 |   Solution | Difficulty |
 | :--------------------: | :--------------: | :-------------: |
 |   [456. 132模式](https://leetcode-cn.com/problems/132-pattern/)   |      中等       | [Java](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer/blob/master/src/LeetCodeSolution/DataStructure/_01_ArrayAndMatrix/_4_MedianOfTwoSortedArrays/Solution.java) |
 |   [496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/)   |      简单       | [Java](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer/blob/master/src/LeetCodeSolution/DataStructure/_01_ArrayAndMatrix/_4_MedianOfTwoSortedArrays/Solution.java) |

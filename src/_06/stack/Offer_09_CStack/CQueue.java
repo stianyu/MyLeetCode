@@ -1,10 +1,8 @@
-package _06.stack.Offer_30_Queue;
-
+package _06.stack.Offer_09_CStack;
 import java.util.ArrayDeque;
 import java.util.Deque;
 
-import java.util.ArrayDeque;
-class CQueue {
+public class CQueue {
     Deque<Integer> stack1;
     Deque<Integer> stack2;
 
