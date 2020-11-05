@@ -40,9 +40,8 @@
 
 按照不同的类别进行分类，参考自 [liweiwei1419/LeetCode-Solutions-in-Good-Style](https://github.com/liweiwei1419/LeetCode-Solutions-in-Good-Style) 。
 ## 数据结构相关
-[返回目录](https://github.com/dyfloveslife/LeetCodeAndSwordToOffer#%E7%9B%AE%E5%BD%95)
 
-#### 01.数组和矩阵
+#### 01.数组和矩阵 ([返回目录](https://github.com/stianyu/MyLeetCode#%E7%9B%AE%E5%BD%95))
 
 | 题目 |   Solution | Difficulty |
 | :--------------------: | :--------------: | :-------------: |
@@ -56,7 +55,7 @@
 
 
 
-#### 02.字符串
+#### 02.字符串 ([返回目录](https://github.com/stianyu/MyLeetCode#%E7%9B%AE%E5%BD%95))
 
 | 题目 |   Solution | Difficulty |
 | :--------------------: | :--------------: | :-------------: |
@@ -64,7 +63,7 @@
 
 
 
-#### 03.链表
+#### 03.链表 ([返回目录](https://github.com/stianyu/MyLeetCode#%E7%9B%AE%E5%BD%95))
 
 | 题目 |   Solution | Difficulty |
 | :--------------------: | :--------------: | :-------------: |
@@ -80,8 +79,7 @@
 
 
 
-
-#### 05.滑动窗口
+#### 05.滑动窗口 ([返回目录](https://github.com/stianyu/MyLeetCode#%E7%9B%AE%E5%BD%95))
 
 | 题目 |   Solution | Difficulty |
 | :--------------------: | :--------------: | :-------------: |
@@ -93,8 +91,7 @@
 
 
 
-
-#### 06.栈
+#### 06.栈 ([返回目录](https://github.com/stianyu/MyLeetCode#%E7%9B%AE%E5%BD%95))
 
 | 题目 |   Solution | Difficulty |
 | :--------------------: | :--------------: | :-------------: |
@@ -103,8 +100,7 @@
 
 
 
-
-#### 07.单调栈
+#### 07.单调栈 ([返回目录](https://github.com/stianyu/MyLeetCode#%E7%9B%AE%E5%BD%95))
 
 | 题目 |   Solution | Difficulty |
 | :--------------------: | :--------------: | :-------------: |
@@ -113,7 +109,6 @@
 |   [503. 下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/)   |      中等       | [Java](https://github.com/stianyu/MyLeetCode/tree/master/src/_07/monotonousStack/_503_NextGreaterElementsII_LoopArray/Solution.java) |
 |   [84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)   |      困难       | [Java](https://github.com/stianyu/MyLeetCode/tree/master/src/_07/monotonousStack/_84_LargestRectangleArea/Solution.java) |
 |   [85. 最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/)   |      困难       | [Java](https://github.com/stianyu/MyLeetCode/tree/master/src/_07/monotonousStack/_85_maximalRectangle/Solution.java) |
-
 
 
 
